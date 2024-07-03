@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+logs/
+cache/
+config.php
+vendor/
+.idea/
+.vscode/
+.env
+session/
+*.user.ini
+*.bak
